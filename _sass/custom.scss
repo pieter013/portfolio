@@ -1,0 +1,41 @@
+/* custom.scss */
+
+.main-header {
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    padding: 100px 0;
+    text-align: center;
+    color: white;
+}
+
+.page-title {
+    font-size: 3rem;
+    margin: 0;
+}
+
+.page-subtitle {
+    font-size: 1.5rem;
+    margin: 0;
+}
+
+.video-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.video {
+    flex: 1 1 calc(45% - 20px); /* Stel de breedte in op 45% min de gap */
+    box-sizing: border-box;
+}
+
+.video iframe {
+    width: 100%;
+    height: 40vh; /* Pas de hoogte aan naar wens, bijvoorbeeld 40% van de viewport hoogte */
+}
+
+.video-title {
+    text-align: center;
+    margin-top: 10px;
+}
