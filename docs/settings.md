@@ -151,7 +151,11 @@ paginate: 12
 
 The social settings can be found in [`src/yml/social.yml`](https://github.com/thiagorossener/jekflix-template/blob/master/src/yml/social.yml). Social media icons appear in the footer of every page.
 
+<<<<<<< HEAD
 > **IMPORTANT:** Only when cloning the repo. If you're using the `gem`, modify those properties in your `_`.
+=======
+> **IMPORTANT:** Only when cloning the repo. If you're using the `gem`, modify those properties in your `_config.yml`.
+>>>>>>> origin/main
 
 #### `github_username`
 
