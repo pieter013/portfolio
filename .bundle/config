@@ -1,2 +1,6 @@
 ---
+<<<<<<< HEAD
 BUNDLE_PATH: "vendor/bundle"
+=======
+BUNDLE_PATH: "/home/pjotr/.bundle"
+>>>>>>> origin/main

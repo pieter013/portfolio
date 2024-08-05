@@ -1,8 +1,14 @@
 # Site Settings
+<<<<<<< HEAD
 name: Jekflix
 title: Jekflix | A blog theme for Jekyll
 description: Jekflix is a template for Jekyll inspired by Netflix and made by
   Thiago Rossener.
+=======
+name: Pieter Abrahams
+title: Pieter Abrahams | Cameraman & Editor
+description: Pieter Abrahams | Cameraman & Editor bij hpm video
+>>>>>>> origin/main
 tags:
   - blog
   - template
@@ -26,7 +32,10 @@ disqus_username: disqus_username
 # See: https://formspree.io/
 formspree_form_id: formspree_form_id
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/main
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: github_username
@@ -36,23 +45,35 @@ instagram_username: instagram_username
 linkedin_username: linkedin_username
 medium_username: medium_username
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/main
 # Posts Settings
 show_time_bar: true
 show_modal_on_exit: false
 show_modal_on_finish_post: true
 two_columns_layout: true
 
+<<<<<<< HEAD
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
+=======
+# Advanced Settings
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+url: "https://pieter013.github.io" # the base hostname & protocol for your site
+>>>>>>> origin/main
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/main
 # Build settings
 markdown: kramdown
 highlighter: rouge
